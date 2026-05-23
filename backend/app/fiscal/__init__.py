@@ -1,0 +1,1 @@
+"""Official fiscal receipt integrations."""

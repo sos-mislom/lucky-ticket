@@ -1,0 +1,1 @@
+"""Ticket happiness scoring rules."""

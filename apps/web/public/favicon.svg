@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Билетик">
+  <rect width="64" height="64" rx="14" fill="#f3f1ea"/>
+  <path d="M14 20h36a5 5 0 0 1 5 5v4a5 5 0 0 0 0 10v4a5 5 0 0 1-5 5H14a5 5 0 0 1-5-5v-4a5 5 0 0 0 0-10v-4a5 5 0 0 1 5-5Z" fill="#fffdf5" stroke="#111" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M22 24v24" stroke="#111" stroke-width="2" stroke-linecap="round" stroke-dasharray="3 4"/>
+  <path d="M31 29h14M31 36h10" stroke="#111" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="16" cy="28" r="2" fill="#111"/>
+  <circle cx="16" cy="40" r="2" fill="#111"/>
+</svg>
